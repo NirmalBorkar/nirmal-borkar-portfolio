@@ -286,6 +286,8 @@
 		})
 	};
 
+
+
 	// Document on load.
 	$(function(){
 		fullHeight();
@@ -298,8 +300,8 @@
 		// navActive();
 		navigationSection();
 		// windowScroll();
-
-
+		//downloadCV()
+		
 		mobileMenuOutsideClick();
 		sliderMain();
 		stickyFunction();
