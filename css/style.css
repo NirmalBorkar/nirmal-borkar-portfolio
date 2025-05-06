@@ -1428,10 +1428,12 @@ body.offcanvas {
 .js .animate-box {
   opacity: 0; }
 
-   h4{
+   h3{
       color: #000;
       font-family: "Playfair Display", Georgia, serif;
-      font-weight: 400;
-      margin: 0 0 10px 0;
+      font-weight: 200;
+      margin: 0 0 5px 0;
     }
+
+
   
